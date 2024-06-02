@@ -111,16 +111,7 @@ You can purchase this feature through the application interface.
 ## License
 
 This project uses the following third-party libraries:
-Cryptography library (https://cryptography.io/) which is licensed under the Apache License 2.0.
-
-Apache License
-Version 2.0, January 2004
-http://www.apache.org/licenses/
-
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-...
-
-(Include the full text of the Apache License 2.0 here)
+Cryptography library (https://cryptography.io/) which is licensed under the Apache License 2.0.(Include the full text of the Apache License 2.0 here)
 
 
 
